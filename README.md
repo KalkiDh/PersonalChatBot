@@ -9,7 +9,7 @@ A conversational AI chatbot powered by [DeepSeek R1-0528](https://huggingface.co
 <!-- 
 Add your project screenshots or GIFs below. 
 For example:
-![Chatbot UI](images/chatbot_ui.png)
+![Chatbot UI](images/Sample.png)
 ![Conversation Example](images/conversation.gif)
 -->
 
