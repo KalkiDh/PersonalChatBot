@@ -6,12 +6,8 @@ A conversational AI chatbot powered by [DeepSeek R1-0528](https://huggingface.co
 
 ## 📸 Project Screenshots
 
-<!-- 
-Add your project screenshots or GIFs below. 
-For example:
-(images/Sample.png)
-![Conversation Example](images/conversation.gif)
--->
+![Alt text](images/Sample.png)
+
 
 ---
 
